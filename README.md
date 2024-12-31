@@ -11,6 +11,6 @@
 
 <h3>Project Links</h3>
 <p>
-  - Job Prediction HTML: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages Demo</a><br>
-  - Job Prediction Python Github Repository: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
+  - Salary Prediction HTML: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages Demo</a><br>
+  - Salary Prediction Python Github Repository: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
 </p>
