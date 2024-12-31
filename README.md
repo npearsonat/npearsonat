@@ -14,5 +14,5 @@
   - Salary Prediction HTML: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages</a><br>
   - Salary Prediction Python Github Repository: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
 
-  - Tableau NYC Health Inspection Visualizations: <a href = "https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank"Tableau Public Profile></a>
+  - Tableau NYC Health Inspection Visualizations: <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile></a>
 </p>
