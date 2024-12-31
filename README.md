@@ -11,6 +11,6 @@
 
 <h3>Project Links</h3>
 <p>
-  - View the live project: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages Demo</a><br>
-  - View the source code: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
+  - Job Prediction HTML: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages Demo</a><br>
+  - Job Prediction Python Github Repository: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
 </p>
