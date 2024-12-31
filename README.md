@@ -14,12 +14,3 @@
   - View the live project: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages Demo</a><br>
   - View the source code: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
 </p>
-
-
-<h3 align="left">My Projects:</h3>
-<p align="left">
-  <a href="https://github.com/npearsonat/Project1" target="blank">Project 1: Data Cleaning with Python</a><br />
-  <a href="https://github.com/npearsonat/Project2" target="blank">Project 2: Exploratory Data Analysis with Pandas</a><br />
-  <a href="https://github.com/npearsonat/Project3" target="blank">Project 3: Machine Learning Model for Prediction</a><br />
-  <a href="https://github.com/npearsonat/Project4" target="blank">Project 4: Deep Learning Model for Image Classification</a><br />
-</p>
