@@ -18,8 +18,8 @@ I'm an analytics student at Northeastern University. I'm interested in predictiv
 
 <h3>Project Links</h3>
 <p>
-  - Salary Prediction HTML: <a href="https://npearsonat.github.io/GradProject2/" target="_blank">GitHub Pages</a><br>
-  - Salary Prediction Python Github Repository: <a href="https://github.com/npearsonat/GradProject2" target="_blank">GitHub Repository</a>
+  - CDC Flu Vaccination Provider Analysis: <a href="https://github.com/npearsonat/cdc-flu-vaccination-analysis" target="_blank">GitHub Pages</a><br>
+  - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a>
 
   - Tableau NYC Health Inspection Visualizations: <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
 </p>
