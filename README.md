@@ -19,7 +19,7 @@ I'm an analytics student at Northeastern University. I'm interested in predictiv
 <h3>Project Links</h3>
 <p>
   - CDC Flu Vaccination Provider Analysis: <a href="https://github.com/npearsonat/cdc-flu-vaccination-analysis" target="_blank">GitHub Pages</a><br>
-  - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a>
+  - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a><br>
   - Tech Company Seasonality Analysis: <a href="https://github.com/npearsonat/tech_company_workload_seasonality" target="_blank">GitHub Repository</a>
 
   - Tableau NYC Health Inspection Visualizations: <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
