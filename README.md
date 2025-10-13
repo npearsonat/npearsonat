@@ -2,37 +2,38 @@
 
 <h3>About me</h3>
 <p>
-I'm a Data Analytics student at Northeastern University with a focus on predictive modeling, data visualization, and applied machine learning. I use this account to share projects, dashboards, and analyses that showcase my skills with Python, SQL, Tableau, and more. I'm using this account to showcase my work and projects.
+I'm a Data Analytics student at Northeastern University with a focus on predictive modeling, data visualization, and applied machine learning. I use this account to share projects, dashboards, and analyses that showcase my skills with Python, SQL, Tableau, and more.
 </p>
 
-<p>
 <h3>Skills & Tools</h3>
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tableau | ArcGIS | Power BI | Git
-</p>
 
-<h3>Project Links</h3>
-<p>
-  
-**CDC Flu Vaccination Provider Analysis** <a href="https://github.com/npearsonat/cdc-flu-vaccination-analysis" target="_blank">Link</a><br>
+<h3>Projects</h3>
+
+**CDC Flu Vaccination Provider Analysis**  
+[Link](https://github.com/npearsonat/cdc-flu-vaccination-analysis)  
 *Tools: Python, Pandas, Matplotlib, ArcGIS*  
-
+Analyzed CDC vaccination site and coverage data to understand how site density impacts vaccination rates. Performed data cleaning, feature engineering, hypothesis testing, and spatial visualizations to identify areas where additional vaccination sites could have the most impact.  
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
-  
-**Global Earthquake Dashboard** <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">Link</a><br>
-*Tools: Python, Plotly Dash, APIs* 
 
+**Global Earthquake Dashboard**  
+[Link](https://github.com/npearsonat/eathquake_dashboard)  
+*Tools: Python, Plotly Dash, APIs*  
+Built an interactive dashboard that visualizes global earthquake activity using real-time data from public APIs. Users can filter by magnitude, region, and time frame to explore trends and patterns in seismic activity worldwide.  
 <img src="https://github.com/npearsonat/eathquake_dashboard/blob/56fe793892bcfa42a674dbc31a5908e078f0456f/assets/country_dash.jpeg" width="200">
 
-**Tech Company Seasonality Analysis** <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">Link</a><br>
+**Tech Company Seasonality Analysis**  
+[Link](https://github.com/npearsonat/tech_company_workload_seasonality/tree/main)  
 *Tools: Python, Pandas, Seaborn*  
-  
+Analyzed customer workload data for a tech company to identify seasonal trends and key factors affecting project volumes. Created visualizations to highlight patterns and support data-driven resource planning.  
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
-**NYC Health Inspection Visualizations** <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
-</p>
+**NYC Health Inspection Visualizations**  
+[Tableau Public Profile](https://public.tableau.com/app/profile/nathaniel.pearson/vizzes)  
+*Tools: Tableau, Data Cleaning, Dashboard Design*  
+Designed interactive Tableau dashboards using NYC restaurant inspection data. Dashboards allow users to explore health scores, trends, and compliance patterns across neighborhoods and business types.
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
   <a href="https://linkedin.com/in/nathaniel-g-pearson/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathaniel-g-pearson/" height="30" width="40" />
