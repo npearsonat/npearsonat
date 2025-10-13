@@ -28,7 +28,7 @@ Built an interactive dashboard that visualizes global earthquake activity using 
 Analyzed customer workload data for a tech company to identify seasonal trends and key factors affecting project volumes. Created visualizations to highlight patterns and support data-driven resource planning.  
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
-Instacart SQL Database & Queries
+**Instacart SQL Database & Queries**
 [Link](https://github.com/npearsonat/Instacart_SQL)
 *Tools: SQL Server, T-SQL*
 Created a relational database from CSV data using SQL Server Management Studio. Developed queries to explore the data, extract useful summaries, and demonstrate how SQL can be used to answer practical business questions. This project showcases database setup, table relationships, and query writing skills.
