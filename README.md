@@ -6,7 +6,7 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 </p>
 
 <h3>Skills & Tools</h3>
-Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tableau | ArcGIS | Power BI | Git
+Python | R | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tableau | ArcGIS | Power BI | Git
 
 <h3>Projects</h3>
 
