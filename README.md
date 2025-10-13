@@ -16,7 +16,7 @@ Python | R | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tablea
 Analyzed CDC vaccination site and coverage data to understand how site density impacts vaccination rates. Performed data cleaning, feature engineering, hypothesis testing, and spatial visualizations to identify areas where additional vaccination sites could have the most impact.  
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
 
-**Review Helpfulness Classifier**   
+**Amazaon Book Review Helpfulness Classifier**   
 [Link]([https://github.com/npearsonat/cdc-flu-vaccination-analysis](https://github.com/npearsonat/book_review_classification))  
 *Tools: Python, scikit-learn, TensorFlow, NLP*  
 A demonstration of machine learning and neural network models predicting whether product reviews will be helpful to customers.
