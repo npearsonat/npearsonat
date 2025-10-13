@@ -2,12 +2,11 @@
 
 <h3>About me</h3>
 <p>
-I'm an analytics student at Northeastern University. I'm interested in predictive models and data visualization. I'm using this account to showcase my work and projects. 
+I'm a Data Analytics student at Northeastern University with a focus on predictive modeling, data visualization, and applied machine learning. I use this account to share projects, dashboards, and analyses that showcase my skills with Python, SQL, Tableau, and more. I'm using this account to showcase my work and projects.
 </p>
 
 <h3>Project Links</h3>
-<p>
-  - CDC Flu Vaccination Provider Analysis: <a href="https://github.com/npearsonat/cdc-flu-vaccination-analysis" target="_blank">GitHub Pages</a><br>
+**CDC Flu Vaccination Provider Analysis**  
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
   
   - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a><br>
