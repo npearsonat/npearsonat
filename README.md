@@ -7,7 +7,9 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 
 <h3>Project Links</h3>
 <p>
+  
 **CDC Flu Vaccination Provider Analysis**  
+
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
   
   - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a><br>
