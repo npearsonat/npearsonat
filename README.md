@@ -18,7 +18,7 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 
 <img src="https://github.com/npearsonat/eathquake_dashboard/blob/56fe793892bcfa42a674dbc31a5908e078f0456f/assets/country_dash.jpeg" width="200">
 
-**Tech Company Seasonality Analysis** <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">Link</a>
+**Tech Company Seasonality Analysis** <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">Link</a><br>
 *Tools: Python, Pandas, Seaborn*  
   
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
