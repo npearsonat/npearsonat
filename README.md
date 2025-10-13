@@ -13,8 +13,8 @@ I'm an analytics student at Northeastern University. I'm interested in predictiv
   - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a><br>
 <img src="https://github.com/npearsonat/eathquake_dashboard/blob/56fe793892bcfa42a674dbc31a5908e078f0456f/assets/country_dash.jpeg" width="200">
 
-  - Tech Company Seasonality Analysis: <a href="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" target="_blank">GitHub Repository</a>
-<img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/b4a93e25e71466e3843ca04a01373eda3beb29d8/visualizations/ACF_comparative.png" width="200">
+  - Tech Company Seasonality Analysis: <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">GitHub Repository</a>
+<img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
   - Tableau NYC Health Inspection Visualizations: <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
 </p>
