@@ -8,17 +8,22 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 <h3>Project Links</h3>
 <p>
   
-**CDC Flu Vaccination Provider Analysis**  
+**CDC Flu Vaccination Provider Analysis** <a href="https://github.com/npearsonat/cdc-flu-vaccination-analysis" target="_blank">Link</a><br>
+*Tools: Python, Pandas, Matplotlib, ArcGIS*  
 
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
   
-  - Global Earthquake Dashboard: <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">GitHub Repository</a><br>
+**Global Earthquake Dashboard** <a href="https://github.com/npearsonat/eathquake_dashboard" target="_blank">Link</a><br>
+*Tools: Python, Plotly Dash, APIs* 
+
 <img src="https://github.com/npearsonat/eathquake_dashboard/blob/56fe793892bcfa42a674dbc31a5908e078f0456f/assets/country_dash.jpeg" width="200">
 
-  - Tech Company Seasonality Analysis: <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">GitHub Repository</a>
+**Tech Company Seasonality Analysis** <a href="https://github.com/npearsonat/tech_company_workload_seasonality/tree/main" target="_blank">Link</a>
+*Tools: Python, Pandas, Seaborn*  
+  
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
-  - Tableau NYC Health Inspection Visualizations: <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
+**NYC Health Inspection Visualizations** <a href="https://public.tableau.com/app/profile/nathaniel.pearson/vizzes" target = "blank">Tableau Public Profile</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
