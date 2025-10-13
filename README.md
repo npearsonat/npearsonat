@@ -30,8 +30,7 @@ Analyzed customer workload data for a tech company to identify seasonal trends a
 
 **Instacart SQL Database & Queries**<br>
 [Link](https://github.com/npearsonat/Instacart_SQL)<br>
-*Tools: SQL Server, T-SQL*
-
+*Tools: SQL Server, T-SQL*<br>
 Created a relational database from CSV data using SQL Server Management Studio. Developed queries to explore the data, extract useful summaries, and demonstrate how SQL can be used to answer practical business questions. This project showcases database setup, table relationships, and query writing skills.
 
 <img src="https://github.com/npearsonat/Instacart_SQL/blob/main/visualizations/Instacart_Schema.png" width="200">
