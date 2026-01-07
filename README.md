@@ -18,7 +18,7 @@ Analyzed CDC vaccination site and coverage data to understand how site density i
 **MongoDB Elasticsearch News Articles** [Link](https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/tree/main)<br>
 *Tools: MongoDB, Elasticsearch*  
 Created a MongoDB database containing 50K new articles. Utilized Elasticsearch to efficiently search through them.
-<img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_2.png" width="200">
+<img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_2.png" width="400">
 
 **Amazaon Book Review Helpfulness Classifier** [Link](https://github.com/npearsonat/book_review_classification)  
 *Tools: Python, scikit-learn, TensorFlow, NLP*  
