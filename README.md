@@ -15,6 +15,11 @@ Python | R | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tablea
 Analyzed CDC vaccination site and coverage data to understand how site density impacts vaccination rates. Performed data cleaning, feature engineering, hypothesis testing, and spatial visualizations to identify areas where additional vaccination sites could have the most impact.  
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="200">
 
+**MongoDB Elasticsearch News Articles** [Link](https://github.com/npearsonat/newsarticles_mongodb_elasticsearch)<br>
+*Tools: MongoDB, Elasticsearch*  
+Created a MongoDB database containing 50K new articles. Utilized Elasticsearch to efficiently search through them.
+<img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/commit/355703be9332a5ecd4cf47b59953a810dbdc5d70" width="200">
+
 **Amazaon Book Review Helpfulness Classifier** [Link](https://github.com/npearsonat/book_review_classification)  
 *Tools: Python, scikit-learn, TensorFlow, NLP*  
 A demonstration of machine learning and neural network models predicting whether product reviews will be helpful to customers.
@@ -30,16 +35,7 @@ Built an interactive dashboard that visualizes global earthquake activity using 
 Analyzed customer workload data for a tech company to identify seasonal trends and key factors affecting project volumes. Created visualizations to highlight patterns and support data-driven resource planning.  
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
-**Instacart SQL Database & Queries** [Link](https://github.com/npearsonat/Instacart_SQL)<br>
-*Tools: SQL Server, T-SQL*  
-Created a relational database from CSV data using SQL Server Management Studio. Developed queries to explore the data, extract useful summaries, and demonstrate how SQL can be used to answer practical business questions. This project showcases database setup, table relationships, and query writing skills.  
-
 <img src="https://github.com/npearsonat/Instacart_SQL/blob/main/visualizations/Instacart_Schema.png" width="200">
-
-**NYC Health Inspection Visualizations**  
-[Tableau Public Profile](https://public.tableau.com/app/profile/nathaniel.pearson/vizzes)  
-*Tools: Tableau, Data Cleaning, Dashboard Design*  
-Designed interactive Tableau dashboards using NYC restaurant inspection data. Dashboards allow users to explore health scores, trends, and compliance patterns across neighborhoods and business types.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
