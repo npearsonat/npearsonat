@@ -24,7 +24,7 @@ in images with bounding box coordinates and confidence scores.
 **MongoDB Elasticsearch News Articles** [Link](https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/tree/main)<br>
 *Tools: MongoDB Atlas, Elasticsearch, Docker, Pymongo*  
 Created a MongoDB database containing 50K new articles. Utilized Elasticsearch to efficiently search through them.
-<img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_2.png" width="600">
+<img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_3.png" width="600">
 
 **Amazaon Book Review Helpfulness Classifier** [Link](https://github.com/npearsonat/book_review_classification)  
 *Tools: Python, scikit-learn, TensorFlow, NLP*  
