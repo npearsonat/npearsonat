@@ -35,8 +35,6 @@ Built an interactive dashboard that visualizes global earthquake activity using 
 Analyzed customer workload data for a tech company to identify seasonal trends and key factors affecting project volumes. Created visualizations to highlight patterns and support data-driven resource planning.  
 <img src="https://github.com/npearsonat/tech_company_workload_seasonality/blob/main/visualizations/customer_cat_graph.png" width="200">
 
-<img src="https://github.com/npearsonat/Instacart_SQL/blob/main/visualizations/Instacart_Schema.png" width="200">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nathaniel-g-pearson/" target="blank">
