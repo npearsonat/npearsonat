@@ -15,8 +15,13 @@ Python | R | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Tablea
 Analyzed CDC vaccination site and coverage data to understand how site density impacts vaccination rates. Performed data cleaning, feature engineering, hypothesis testing, and spatial visualizations to identify areas where additional vaccination sites could have the most impact.  
 <img src="https://github.com/npearsonat/cdc-flu-vaccination-analysis/blob/0c419d9fe4f1a2b439a4dd34eb5958010fbd56bd/visualizations/Layout1.png" width="600">
 
+**Computer Vision Car Detetcion API** [Link](https://github.com/npearsonat/cv_car_detection_api)  
+*Tools: Pytorch, Resnet50, FastAPI, Docker*  
+A real-time car detection API built with PyTorch and Faster R-CNN, deployed on Google Cloud Run to identify and count vehicles in images with bounding box coordinates and confidence scores.
+<img src="https://github.com/npearsonat/cv_car_detection_api/blob/main/screenshots/detection_visual_example.jpg" width="600">
+
 **MongoDB Elasticsearch News Articles** [Link](https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/tree/main)<br>
-*Tools: MongoDB, Elasticsearch*  
+*Tools: MongoDB Atlas, Elasticsearch, Docker, Pymongo*  
 Created a MongoDB database containing 50K new articles. Utilized Elasticsearch to efficiently search through them.
 <img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_2.png" width="600">
 
