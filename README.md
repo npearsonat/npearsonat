@@ -6,6 +6,7 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 </p>
 
 <h3>Skills & Tools</h3>
+
 **Languages:** Python | R | SQL
 
 **Data & ML:** Pandas | NumPy | Scikit-learn | PyTorch | Matplotlib | Seaborn
