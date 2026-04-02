@@ -5,8 +5,6 @@
 I'm a Data Analytics student at Northeastern University with a focus on predictive modeling, data visualization, and applied machine learning. I use this account to share projects, dashboards, and analyses that showcase my skills with Python, SQL, Tableau, and more.
 </p>
 
-<h3>Skills & Tools</h3>
-
 ### Skills & Tools
 
 **Languages:** Python, R, SQL
