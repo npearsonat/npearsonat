@@ -35,10 +35,10 @@ in images with bounding box coordinates and confidence scores.
 Created a MongoDB database containing 50K new articles. Utilized Elasticsearch to efficiently search through them.
 <img src="https://github.com/npearsonat/newsarticles_mongodb_elasticsearch/blob/main/screenshots/mongodb_compass_3.png" width="600">
 
-**Amazaon Book Review Helpfulness Classifier** [Link](https://github.com/npearsonat/book_review_classification)  
-*Tools: Python, scikit-learn, TensorFlow, NLP*  
-A demonstration of machine learning and neural network models predicting whether product reviews will be helpful to customers.
-<img src="https://github.com/npearsonat/book_review_classification/blob/main/visualizations/ML_classifier_feature_piechart.png" width="600">
+**Brent Crude & U.S. Retail Gas Price Analysis** [Link](https://github.com/npearsonat/brent_us_oil_price)  
+*Python, Pandas, SQLite, Matplotlib, EIA API*  
+Analyzed the relationship between Brent crude and U.S. retail gasoline prices from 1987–2026 across three geopolitical shocks. Used SQL to engineer lagged price variables and measure transmission speed from global crude markets to the American pump
+<img src="https://github.com/npearsonat/brent_us_oil_price/blob/main/charts/us_retail_gas_vs_brent_2.png" width="600">
 
 **Global Earthquake Dashboard** [Link](https://github.com/npearsonat/eathquake_dashboard)  
 *Tools: Python, Plotly Dash, APIs*  
