@@ -40,7 +40,7 @@ Created a MongoDB database containing 50K new articles. Utilized Elasticsearch t
 Analyzed the relationship between Brent crude and U.S. retail gasoline prices from 1987–2026 across three geopolitical shocks. Used SQL to engineer lagged price variables and measure transmission speed from global crude markets to the American pump
 <img src="https://github.com/npearsonat/brent_us_oil_price/blob/main/charts/us_retail_gas_vs_brent_2.png" width="600">
 
-**Global Earthquake Dashboard** [Link](https://github.com/npearsonat/eathquake_dashboard/blob/main/assets/image.png)  
+**Global Earthquake Dashboard** [Link](https://github.com/npearsonat/eathquake_dashboard/blob/main/assets/earthquake_main.png)  
 *Tools: Python, Plotly Dash, APIs*  
 Built an interactive dashboard that visualizes global earthquake activity using real-time data from public APIs. Users can filter by magnitude, region, and time frame to explore trends and patterns in seismic activity worldwide.  
 <img src="https://github.com/npearsonat/eathquake_dashboard/blob/56fe793892bcfa42a674dbc31a5908e078f0456f/assets/country_dash.jpeg" width="600">
