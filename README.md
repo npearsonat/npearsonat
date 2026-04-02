@@ -7,15 +7,17 @@ I'm a Data Analytics student at Northeastern University with a focus on predicti
 
 <h3>Skills & Tools</h3>
 
-**Languages:** Python | R | SQL
+### Skills & Tools
 
-**Data & ML:** Pandas | NumPy | Scikit-learn | PyTorch | Matplotlib | Seaborn
+**Languages:** Python, R, SQL
 
-**Databases & Search:** MongoDB | Elasticsearch | Google BigQuery
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn
 
-**Cloud & Tools:** Docker | FastAPI | Google Cloud Run | Azure ML | Git
+**Databases & Search:** MongoDB, Elasticsearch, Google BigQuery
 
-**Visualization:** Tableau | Power BI | ArcGIS
+**Cloud & Tools:** Docker, FastAPI, Google Cloud Run, Azure ML, Git
+
+**Visualization:** Tableau, Power BI, ArcGIS
 
 <h3>Projects</h3>
 
